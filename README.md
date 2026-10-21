@@ -9,6 +9,8 @@ Each directory represents a specific topic, course practice, or set of exercises
 | Folder / Exercise | Topic / Focus | Status |
 | :--- | :--- | :---: |
 | `creating_functions_to_register_app_users` | Python Functions, User Registration Logic, Data Validation | ✅ Completed |
+| `building_core_sign_up_functions_to_help_validate_new_users` | Python Functions, Sign-up Validation (name, email) | ✅ Completed |
+| `investigating_netflix_movies` | Exploratory Data Analysis, pandas, matplotlib (1990s Netflix movies) | ✅ Completed|
 
 ---
 
